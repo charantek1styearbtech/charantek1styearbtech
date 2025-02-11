@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charantek1styearbtech" alt="charantek1styearbtech" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/charantek1styearbtech?tab=projects](https://github.com/charantek1styearbtech?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/charantek1styearbtech?tab=repositories)
 - My Personal Website at [Website](https://rcharantejreddy.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
