@@ -1,43 +1,52 @@
-Hi there 👋
-I'm R Charantej Reddy, passionately exploring the world of programming and open-source contributions.
-🧐 About
-🌱 I am an enthusiast about learning and developing software solutions.
-🔭 I joined GitHub on March 29, 2023 and have been actively engaging ever since, with my most recent update on March 5, 2025.
-💬 I have 10 public repositories and made a total of 69 commits, demonstrating my consistent engagement and commitment to my projects.
-🛠️ My skill set includes a range of programming languages, such as Python, JavaScript, HTML, CSS, Dart, Objective-C, Swift, Kotlin, and Java, among others.
-👯 I enjoy collaborating with others and have contributed to 3 external projects, including the Gemini API cookbook, LeetCode-Feedback, and postman-collection.
-🏆 I have earned a reputation for delivering quality work, with a repository count of 9 public pull requests and 1 issue count.
-🌍 I'm passionate about exploring new technologies and building innovative solutions.
-🚀 GitHub Stats
-Github Stats
+<h2 align="left">Hi 👋! My name is Charantej Reddy and I'm a 3rd-year BTech EEE student at NIT Warangal.</h2>
 
-🔝 Top Languages
-Top Languages
+###
 
-📂 Highlighted Repositories
-Here are some of my highlighted repositories that showcase my skills and interests:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charantek1styearbtech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charantek1styearbtech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Cookbook
-Portfolio Website
-Postman Collection
-Educational Management System
-Hangman Game
-📫 Contact Information
-💼 Connect with me on LinkedIn
-📧 Email me at [charantek1styearbtech@gmail.com]
-🌟 Badges
-Here are some badges highlighting my skills and accomplishments:
+###
 
-Python
-JavaScript
-HTML
-CSS
-Dart
-Objective-C
-Swift
-Kotlin
-Java
-🚀 Let's Connect
-I am always open to new opportunities and collaborations. Feel free to reach out and connect!
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Looking forward to exploring and contributing to the open-source community. Together, we can achieve great things!
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/charantej-reddy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/charantek1styearbtech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
